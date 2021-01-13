@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AJAPRO"
+    }
+  },
+  "defaultProject": "AJAPRO",
+  "cli": {
+    "analytics": "7ccdce2e-6384-47fe-9dda-c3203795f6ab"
+  }
 }
